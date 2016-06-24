@@ -28,3 +28,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#Ignore TEMP Files
+RollABall/Roll A Ball/Temp/
